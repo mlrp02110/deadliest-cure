@@ -14,7 +14,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 27 Nov 2026 21:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:09:55 +0000</lastBuildDate>
     <item>
       <title>0. The Captain of All These Men of Death</title>
       <description>James Watt's children, the basics of TB, and why a curable disease still kills over a million people a year. Host only. Book chapter: Introduction.</description>
@@ -24,6 +24,17 @@
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
       <itunes:episode>0</itunes:episode>
       <itunes:duration>00:12:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>1. The Ward by the Sea</title>
+      <description>A working TB ward in Sierra Leone with Dr. Fatmata Kamara (fictional). Book chapter: Lakka.</description>
+      <itunes:summary>A working TB ward in Sierra Leone with Dr. Fatmata Kamara (fictional). Book chapter: Lakka.</itunes:summary>
+      <enclosure url="https://mlrp02110.github.io/deadliest-cure/episodes/Ep01_The_Ward_by_the_Sea.mp3" length="10480580" type="audio/mpeg"/>
+      <guid isPermaLink="false">deadliest-cure-ep01</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>00:14:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
